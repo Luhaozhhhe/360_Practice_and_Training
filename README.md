@@ -18,4 +18,3 @@
 + JumpServer 远程代码执行漏洞(CVE-2024-29202)
 + Bitbucket Server 和 Data Center存在命令注入漏洞(CVE-2022-43781)
 
-大作业具体内容放不下了，需要的请私信
